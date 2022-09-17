@@ -5,6 +5,7 @@
     <title>{{.Title}}</title>
 </head>
 <body>
-     {{.Content}}
+    <div style="font-style: italic;">{{ dateFormat "Monday, Jan 1, 2006" .Date }}</div>
+    {{.Content}}
 </body>
 </html>
