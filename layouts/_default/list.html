@@ -1,4 +1,16 @@
-<!DOCTYPE html>
+{{ define "main" }}
+    {{.Content}}
+    <ul style="list-style: none;">
+        {{ range .Pages }}
+        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}
+
+
+
+
+{{/*  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,4 +25,4 @@
         {{ end }}
     </ul>
 </body>
-</html>
+</html>  */}}

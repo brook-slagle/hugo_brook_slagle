@@ -1,24 +1,25 @@
 ---
-title: "Portfolio"
+title: "Brook Slagle Resume"
 date: 2022-09-16T10:31:05-05:00
 
 draft: true
 ---
 
-# Brook Slagle 
-<aside>
+# Brook Slale Resume 
+
 brook.slagle@trojans.dsu.edu
 605-360-2509
 Madison, SD
 linkedin.com/in/brook-slagle
-</aside>
+
 Third year student studying Cyber Operations at Dakota State University. Currently working as an IT Support Technician, but open to opportunities in RPA, software development, cyber security and blockchain tech.
 
 ### Education
-Dakota State University
+Dakota State University - Graduation Date: May 2023
 The Beacom College of Computer and Cyber Sciences, Madison, SD
 - B.S Cyber Operations
-- A.S Network Security and Administration <aside>Gra`1duation Date: May 2023</aside>
+- A.S Network Security and Administration
+
 ### Technical Skills
 - Skills: Programming/Code Project Composition, Data structures, Software Security/Reverse Engineering, Information Security Management, Computer Hardware and Networking Skills, Robotic Process Automation, advanced skills in Windows 10+, intermediate in Linux
 - Knowledgeable Tools: git / gdb / Ghidra / replit / Wireshark / Visual Studio Code / Notion / Obsidian  

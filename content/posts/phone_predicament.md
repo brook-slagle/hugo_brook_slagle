@@ -1,5 +1,5 @@
 ---
-title: "Phone_predicament"
+title: "Phone & Headphone Predicament"
 date: 2022-09-16T16:23:48-05:00
 author: "Brook"
 tags: ["apple", "android"]
