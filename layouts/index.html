@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brook Slagle</title>
+</head>
+<body>
+    {{ block "header" . }}
+    {{ end }}
+
+    <h4>Welcome to my Website :D</h4> 
+    <p>Here you will find my blog and some information about me. You can find me at my socials here:</p>
+    <span>
+        <div><a href=""></a></div>
+    </span>
+
+    {{ range .Pages }}
+        <ul style="list-style: none;">
+            {{ range .Pages }}
+                <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+                <l1>{{ .Summary }}...</l1>
+            {{ end }}
+        </ul>
+    {{ end }}
+</body>
+</html>
