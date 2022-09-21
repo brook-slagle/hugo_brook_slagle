@@ -19,11 +19,12 @@
         </div>
     </span>
 
-    {{ range .Pages }}
+    {{ range where .Pages "Section" "posts" }}
         <ul style="list-style: none;">
             {{ range .Pages }}
                 <li><a href="{{.Permalink}}">{{.Title}}</a></li>
                 <l1>{{ .Summary }}...</l1>
+                <l1>{{ dateFormat "Monday, Jan 1, 2006" .Date }}</l1>
             {{ end }}
         </ul>
     {{ end }}
