@@ -94,3 +94,8 @@ body {
 .socials {
     padding: 0px;
 }
+
+
+.content {
+    max-width: 1000px;
+}
