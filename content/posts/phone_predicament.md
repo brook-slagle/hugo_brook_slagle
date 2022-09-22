@@ -6,7 +6,6 @@ tags: ["apple", "android"]
 categories: ["tech"]
 draft: true
 ---
-# Phone & Headphone Predicament
 I want to buy a new phone eventually, but there is no flagship phones with aux ports. So I have to choose whether I want to upgrade my phone AND fully invest in true-wireless headphones again, or keep my old poodunky Samsung S10 and keep the aux port while using my analog cans. 
 
 Options: 

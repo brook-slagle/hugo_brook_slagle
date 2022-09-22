@@ -4,9 +4,6 @@ date: 2022-09-16T10:31:05-05:00
 
 draft: true
 ---
-
-# Brook Slale Resume 
-
 brook.slagle@trojans.dsu.edu
 605-360-2509
 Madison, SD

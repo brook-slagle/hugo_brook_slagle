@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>BS - {{.Title}}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
     {{ partial "header" . }}
 
     <div style="margin-top: 100px;"></div>
-
-    {{ block "main" .}}
-
-    {{ end }}
+    <div class="content">
+        {{ block "main" .}}
+        {{ end }}
+    </div>
+        
 
     {{ partial "footer" . }}
 
