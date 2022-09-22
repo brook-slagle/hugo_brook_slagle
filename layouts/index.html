@@ -3,28 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <title>Brook Slagle</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
-    {{ block "header" . }}
-    {{ end }}
-
-    <h4>Welcome to my Website :D</h4> 
-    <p>Here you will find my blog and some information about me. You can find me at my socials here:</p>
-    <span>
-        <div>
-            <a href="https://www.twitter.com/punkthebucket" target="_blank"><img src="https://www.svgrepo.com/show/13677/twitter.svg" alt="Twitter" height="30rem"></a>
-            <a href="https://www.linkedin.com/in/brook-slagle/" target="_blank"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="LinkedIn" height="30rem"></a>
-            <a href="https://www.instagram.com/punkthebucket" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Instagram" height="30rem"></a>
-            <a href="https://github.com/brook-slagle" target="_blank"><img src="https://www.svgrepo.com/show/394174/github.svg" alt="GitHub" height="30rem"></a>
-        </div>
-    </span>
-
+    {{ partial "header" . }}
+    <div class="intro">
+        <p>Welcome to my Website 👋</p> 
+        <p>Here you will find stuff that I post on my blog, my portfolio/resume, and a little about me.</p>
+        <p>If you wanna get in contact with me, here is where I'm at: </p>
+        <span>
+            <div class="socials">
+                <a href="https://www.twitter.com/punkthebucket" target="_blank"><img src="https://www.svgrepo.com/show/13677/twitter.svg" alt="Twitter" height="30rem"></a>
+                <a href="https://www.linkedin.com/in/brook-slagle/" target="_blank"><img src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="LinkedIn" height="30rem"></a>
+                <a href="https://www.instagram.com/punkthebucket" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Instagram" height="30rem"></a>
+                <a href="https://github.com/brook-slagle" target="_blank"><img src="https://www.svgrepo.com/show/394174/github.svg" alt="GitHub" height="30rem"></a>
+                <a href="mailto:brook.slagle@trojans.dsu.edu" target="_blank"><img src="https://www.svgrepo.com/show/34965/email.svg" alt="Email" height="30rem"></a>
+            </div>
+        </span>
+    </div>  
+    <a class="Blog-Header" href="http://localhost:1313/posts/">Blog Posts</a>
     {{ range where .Pages "Section" "posts" }}
         <ul style="list-style: none;">
             {{ range .Pages }}
                 <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-                <l1>{{ .Summary }}...</l1>
-                <l1>{{ dateFormat "Monday, Jan 1, 2006" .Date }}</l1>
+                <l1>{{ .Summary }}...</l1><br>
+                <l1>{{ dateFormat "Jan 1, 2006" .Date }}</l1>
             {{ end }}
         </ul>
     {{ end }}

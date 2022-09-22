@@ -3,16 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
-    {{ block "header" . }}
+    {{ partial "header" . }}
 
-    {{ end }}
+    <div style="margin-top: 100px;"></div>
+
     {{ block "main" .}}
 
     {{ end }}
-    {{ block "footer" . }}
 
-    {{ end }}
+    {{ partial "footer" . }}
+
 </body>
 </html>
