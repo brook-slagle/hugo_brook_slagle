@@ -10,6 +10,18 @@
     --dark-gray-10:#52525e;
     --dark-gray-05:#5b5b66;
 
+    --violet-05: #e7dfff;
+    --violet-10: #d9bfff;
+    --violet-20: #cb9eff;
+    --violet-30: #c689ff;
+    --violet-40: #ab71ff;
+    --violet-50: #9059ff;
+    --violet-60: #7542e5;
+    --violet-70: #592acb;
+    --violet-80: #45278d;
+    --violet-90: #321c64;
+    
+    
     --text-base:16px;
     --text-sm:14px;
     --text-md:18px;
@@ -20,16 +32,97 @@ body {
     color: white;
     font-family: Public Sans, Verdana, Geneva, Tahoma, sans-serif;
     font-size: var(--text-base);
+    margin: 0;
+    padding: 0;
 }
+
+
+/* Header */
+.header {
+    position: fixed;
+    display: flex;
+    box-sizing: border-box;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 25px;
+    padding-right: 30px;
+    background-color: var(--dark-gray-90);
+    box-shadow: 0px 2px 15px #060507;
+}
+
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.header a:hover {
+    background-color: var(--dark-gray-70);
+}
+
+.header .name {
+    font-size: 48px;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 900;
+    text-transform: uppercase;
+    border-radius: 14px;
+}
+
+
+/* Footer */
+.footer {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-between; 
+    bottom: 0;
+    width: 100%;
+    padding: 0px 25px;
+    background-color: var(--dark-gray-90);
+    border-top: 1px solid var(--dark-gray-80);
+}
+
+.footer .cp-right {
+    opacity: .5;
+}
+
+.footer .socials img{
+    /* padding-left: 5px;
+    padding-right: 10px;  */
+    padding: 10px 15px;
+    opacity: 0.5;
+    border-radius: 5px;
+}
+
+.footer img:hover {
+    background-color: var(--dark-gray-40);
+    opacity: 1;
+}
+
+
+/* Content */
+.content{
+    display: flex;
+    box-sizing: border-box;
+    max-width: 900px;
+    margin: 100px;
+}
+
 
 
 /* Homepage */
 .intro {
     background-color: var(--dark-gray-80);
-    padding: 1px 20px;
+    padding: 1px 0px;
     border-radius: 20px;
-    margin: 100px auto 20px;
-    max-width: 750px;
+    margin: 115px auto 20px;
+    max-width: 600px;
     border-bottom: 2px solid var(--dark-gray-50);
 }
 
@@ -62,61 +155,57 @@ body {
     padding: 0px;
 }
 
-
-/* Header */
-.header {
-    position: fixed;
+.home-posts {
     display: flex;
-    box-sizing: border-box;
-    top: 0;
-    width: 100%;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 25px;
-    padding-right: 35px;
-}
-
-.header a {
-    text-decoration: none;
-    color: white;
-    padding: 10px 15px;
-    border-radius: 8px;
-    font-weight: 500;
-}
-
-.header a:hover {
-    background-color: var(--dark-gray-70);
-}
-
-.header .name {
-    font-size: 48px;
-    text-decoration: none;
-    font-style: italic;
-    font-weight: 900;
-    text-transform: uppercase;
-    border-radius: 14px;
-}
-
-
-/* Footer */
-.footer {
-    position: fixed;
-    display: flex;
-    justify-content: space-between; 
-    bottom: 0;
-    width: 100%;
-    
-}
-
-.footer .socials {
-    
-}
-
-/* Content */
-.content{
     box-sizing: border-box;
     max-width: 900px;
-    margin: 100px;
+    border-radius: 20px;
+    justify-content: center;
+    margin: auto;
+    background-color: var(--dark-gray-80);
+    padding: 10px;
+}
+
+.home-posts ul {
+    margin: auto;
+}
+
+.home-posts #blog-header {
+    font-size:larger;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    padding: 5px;
+    margin: 0px;
+    padding-left: 5px;
+    text-align: center;
+    align-items: center;
+    background-color: var(--dark-gray-70);
+    border-radius: 14px 0 0 14px;
 }
 
 
+.home-entry-title a{
+    font-weight: 600;
+    font-size: large;
+    color: var(--violet-20);
+    text-decoration: underline;
+}
+.home-entry-content {
+    margin-top: 0px;
+    font-weight: 100;
+}
+.home-entry-date {
+    font-style: italic;
+    font-size: small;
+    color: var(--dark-gray-05);
+    margin-bottom: 10px;
+}
+
+.home-entries {
+    border-bottom: 1px solid var(--violet-05);
+    box-shadow: ;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
