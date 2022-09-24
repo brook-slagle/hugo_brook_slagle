@@ -85,6 +85,7 @@ body {
     /* padding: 0px 25px; */
     background-color: var(--dark-gray-90);
     border-top: 1px solid var(--dark-gray-80);
+    margin-top: 20px;
 }
 
 .footer a {
