@@ -88,6 +88,10 @@ body {
     border-top: 1px solid var(--dark-gray-80);
 }
 
+.footer a {
+    color: var(--violet-05);
+}
+
 .footer .cp-right {
     opacity: .5;
 }
