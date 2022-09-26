@@ -21,20 +21,23 @@
             </div>
         </span>
     </div>  
-    <div class="home-posts">
-        <a id="blog-header" href="http://localhost:1313/posts/">Blog Posts</a>
-        {{ range where .Pages "Section" "posts" }}
-        <ul style="list-style: none;">
-            {{ range .Pages }}
-            <div class="home-entries">    
-                <li class="home-entry-title"><a href="{{.Permalink}}">{{.Title}}</a></li>
-                <li class="home-entry-content">{{ .Content | truncate 250 }}</l1>
+    <div class="add-in">
+        <div class="newest-arrow"><p>newest post ↘</p></div>
+        <div class="home-posts">
+            <div id="blog-header"><a id="home-blog-posts" href="http://localhost:1313/posts/">Blog Posts</a></div>
+            {{ range where .Pages "Section" "posts" }}
+            <ul style="list-style: none;">
+                {{ range .Pages }}
+                <div class="home-entries">    
+                    <li class="home-entry-title"><a href="{{.Permalink}}">{{.Title}}</a></li>
+                    <li class="home-entry-content">{{ .Content | truncate 250 }}</l1>
                     <li class="home-entry-date">{{ dateFormat "Jan 1, 2006" .Date }}</l1>
-                        {{ end }}
-                    </ul>
+                {{ end }}
+            </ul>
             </div>
             {{ end }}
+        </div>
     </div>
-    {{ partial "footer" . }}
+                {{ partial "footer" . }}
 </body>
 </html>

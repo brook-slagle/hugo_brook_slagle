@@ -16,3 +16,9 @@ Places:
 
 
 ### Burger Time - *3.5/5*
+
+### Sickies Garage Burgers & Brews - *4.3/5*
+
+### Pizzashop - *4/5*
+
+### Oshima Sushi Japanese *4.5/5*
