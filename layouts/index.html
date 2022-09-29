@@ -29,15 +29,15 @@
             <ul style="list-style: none;">
                 {{ range .Pages }}
                 <div class="home-entries">    
-                    <li class="home-entry-title"><a href="{{.Permalink}}">{{.Title}}</a></li>
-                    <li class="home-entry-content">{{ .Content | truncate 250 }}</l1>
-                    <li class="home-entry-date">{{ dateFormat "Jan 1, 2006" .Date }}</l1>
+                    <li class="posts-title"><a href="{{.Permalink}}">{{.Title}}</a></li>
+                    <li class="posts-content">{{ .Content | truncate 190 }}</l1>
+                    <li class="posts-date">{{ dateFormat "Jan 1, 2006" .Date }}</l1>
                 {{ end }}
             </ul>
             </div>
             {{ end }}
         </div>
     </div>
-                {{ partial "footer" . }}
+    {{ partial "footer" . }}
 </body>
 </html>

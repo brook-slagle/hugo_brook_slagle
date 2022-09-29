@@ -1,3 +1,5 @@
+/* || General Styles */
+
 :root {
     --dark-gray-90:#15141a;
     --dark-gray-80:#1c1b22;
@@ -42,7 +44,22 @@ html {
 }
 
 
-/* Header */
+a:link{
+    color: var(--violet-20);
+}
+
+a:visited{
+    color: var(--violet-10);
+}
+
+a:hover {
+    color: var(--violet-50);
+}
+
+/* ... */
+
+/* || Header */
+
 .header {
     position: fixed;
     display: flex;
@@ -81,8 +98,10 @@ html {
     border-radius: 14px;
 }
 
+/* ... */
 
 /* Footer */
+
 .footer {
     display: flex;
     align-items: center;
@@ -122,8 +141,10 @@ html {
     opacity: 1;
 }
 
+/* ... */
 
-/* Content */
+/*|| Content */
+
 .content{
     display: flex;
     box-sizing: border-box;
@@ -131,9 +152,11 @@ html {
     margin: auto;
 }
 
+/* ... */
 
 
-/* Homepage */
+/* || Homepage */
+
 .intro {
     background-color: var(--dark-gray-80);
     padding: 1px 0px;
@@ -192,6 +215,7 @@ html {
     margin: auto;
     background-color: var(--dark-gray-80);
     padding: 10px;
+    
 }
 
 .home-posts #home-blog-posts {
@@ -225,17 +249,17 @@ html {
 }
 
 
-.home-entry-title a{
+.posts-title a{
     font-weight: 600;
     font-size: large;
     color: var(--violet-20);
     text-decoration: underline;
 }
-.home-entry-content {
+.posts-content {
     margin-top: 0px;
     font-weight: 100;
 }
-.home-entry-date {
+.posts-date {
     font-style: italic;
     font-size: small;
     color: var(--dark-gray-05);
@@ -248,3 +272,5 @@ html {
     margin-right: 5px;
     margin-bottom: 5px;
 }
+
+/* ... */
