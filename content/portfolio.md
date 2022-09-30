@@ -1,7 +1,5 @@
 ---
 title: "Brook Slagle Resume"
-date: 2022-09-16T10:31:05-05:00
-
 draft: true
 ---
 brook.slagle@trojans.dsu.edu

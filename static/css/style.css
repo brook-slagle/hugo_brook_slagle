@@ -154,9 +154,25 @@ a:hover {
 
 /* ... */
 
+/* || Single */
+    /* .single-content .title {
+        margin: 0px;
+    } */
+
+    .single-date {
+        font-style: italic;
+        margin-top: 0px;
+    }
+
+/* ... */
+
+
+/* || List */
+
+/* ... */
+
 
 /* || Homepage */
-
 .intro {
     background-color: var(--dark-gray-80);
     padding: 1px 0px;
