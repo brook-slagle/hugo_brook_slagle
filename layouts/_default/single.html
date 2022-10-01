@@ -1,10 +1,15 @@
 {{ define "main" }}
     <div class="single-content">
         <h1 class="title"><div >{{.Title}}</div></h1>
+        
         {{ with .Params.date }}
             <div class="single-date">{{ dateFormat "January 1, 2006" . }}</div>
         {{ end }}
+        {{ with .Params.status }}
+            <p class="single-status">{{ . }}</p>
+        {{ end }}
         <div class="single-content">{{.Content}}</div>
+        
     </div>
 {{ end }}
 

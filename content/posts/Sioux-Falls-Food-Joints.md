@@ -2,13 +2,21 @@
 title: "Sioux Falls Food Joints"
 date: 2022-09-25T13:57:09-05:00
 author: "Brook"
-draft: false
+status: "*work in progress - constantly being updated*"
+
+tags: 
+draft: true
 ---
 
-*work in progress - constantly being updated*
+Sioux Falls might not be known for its food, but it certainly has some good options. Here are the ones that I have tried and have left some of my thoughts. 
+
+Here is top 5 of my favorites in the area: 
+
 ## Quick Top 5: 
 1. Watecha Bowl
 
+#### Coffea Roasterie and Espresso Bar - *4.5/5*
+- There are a few of these scattered around the Sioux Falls area, and they are all absolute gems. Great coffee, tea's, and quality coffee shop foods. 
 
 #### Camille's Sidewalk Cafe - *3.5/5*
 - Surprisingly large Cafe on the inside. A little expensive for the serving size with a sandwich or wrap, but good quality and tasting. 
@@ -23,7 +31,7 @@ draft: false
 - The menu at Sickies is something to behold. An absolute plethora of burger choices; it's overwhelmingly large, but you can guarantee you will find something you like as long as you are into burgers. And they are good burgers too, quite, quite good.  
 
 #### Pizzashop - *4/5*
-- The Napoli calzone was ridiciousloy cheese. The most cheesy thing I have ever had in my life. Riccota, Mozzarella and pepperoni were playing dice in my stomach it was so much. WAY too much cheese. The calzone was 1.5/5 literally too much cheese. The the pizza was great. Real New York Style pizza 4.5/5.
+- The Napoli calzone was ridiciousloy cheesey. The most cheesy thing I have ever had in my life. Riccota, Mozzarella and pepperoni were playing dice in my stomach it was so much. WAY too much cheese. The calzone was a 1.5/5. Too much cheese. The the pizza was great. Real New York Style pizza, solid 4.5/5.
 
 #### Oshima Sushi Japanese *4.5/5*
 - Good sushi. Aptly priced for sushi. 

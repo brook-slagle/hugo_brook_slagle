@@ -1,6 +1,7 @@
 /* || General Styles */
 
 :root {
+    /* grays */
     --dark-gray-90:#15141a;
     --dark-gray-80:#1c1b22;
     --dark-gray-70:#23222b;
@@ -12,6 +13,7 @@
     --dark-gray-10:#52525e;
     --dark-gray-05:#5b5b66;
 
+    /* violets */
     --violet-05: #e7dfff;
     --violet-10: #d9bfff;
     --violet-20: #cb9eff;
@@ -23,7 +25,21 @@
     --violet-80: #45278d;
     --violet-90: #321c64;
     
+    /* blues */
+    --blue-05: #aaf2ff;
+    --blue-10: #80ebff;
+    --blue-20: #00ddff;
+    --blue-30: #00b3f4;
+    --blue-40: #0090ed;
+    --blue-50: #0060df;
+    --blue-60: #0250bb;
+    --blue-70: #054096;
+    --blue-80: #073072;
+    --blue-90: #09204d;
     
+    
+
+    /* font sizes */
     --text-base:16px;
     --text-sm:14px;
     --text-md:18px;
@@ -179,6 +195,12 @@ a:hover {
     .single-content {
         font-weight: 200;
         margin: auto 20px;
+    }
+
+    .single-status {
+        margin: 5px 0;
+        font-size: small;
+        color: var(--violet-10); 
     }
 
 /* ... */
