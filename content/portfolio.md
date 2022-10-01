@@ -2,12 +2,11 @@
 title: "Brook Slagle Resume"
 draft: true
 ---
-brook.slagle@trojans.dsu.edu
-605-360-2509
-Madison, SD
-linkedin.com/in/brook-slagle
+brook.slagle@trojans.dsu.edu --- 
+currently in South Dakota --- 
+[linkedin.com/in/brook-slagle](https://www.linkedin.com/in/brook-slagle)
 
-Third year student studying Cyber Operations at Dakota State University. Currently working as an IT Support Technician, but open to opportunities in RPA, software development, cyber security and blockchain tech.
+Fourth year student studying Cyber Operations at Dakota State University. Currently working as an IT Support Technician, but open to opportunities in Web Development, Blockchain tech, and Cyber Security.
 
 ### Education
 Dakota State University - Graduation Date: May 2023
@@ -36,3 +35,15 @@ The Beacom College of Computer and Cyber Sciences, Madison, SD
 	- Served customers by completing secure and accurate transactions such as deposits, as well as maintaining a balanced tender/drawer through many transactions.
 	- Identified fraudulent activity as well as other possible avenues of loss for Great Western Bank.
 	- Provide a phenomenal banking experience for the customer by being friendly and helpful.
+
+### Projects
+- brook-slagle website - This is the website you are currently reading off of. It is built with Hugo with an entirely custom frontend. 
+- python scripts - Various python scripts from quick building a QR code, mapping to google, health/body tracker, and more
+- my-wave-portal – A Ethereum/Solidity based smart contract backend with React.js front end. It’s a web application that can handle simple blockchain transactions.
+- build-a-board – An Assembly application for building a longboard.  
+
+### Campus Involvements / Activities
+- DSU - Dakota Skate Club, Founder and President: 2021 - Present
+- DSU - Cooking and Guardening Club, Member: 2021 - Present
+- DSU - Offensive Security Club, Member: 2021 - 2022
+- DSU - Collegiate Entrepreneurial Organization (CEO) Club, Member: 2020 - 2022
