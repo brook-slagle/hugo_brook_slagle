@@ -4,7 +4,7 @@
         {{ with .Params.date }}
             <div class="single-date">{{ dateFormat "January 1, 2006" . }}</div>
         {{ end }}
-        {{.Content}}
+        <div class="single-content">{{.Content}}</div>
     </div>
 {{ end }}
 
