@@ -1,6 +1,6 @@
 {{ define "main" }}
     <div class="single-content">
-        <h1><div class="title">{{.Title}}</div></h1>
+        <h1 class="title"><div >{{.Title}}</div></h1>
         {{ with .Params.date }}
             <div class="single-date">{{ dateFormat "January 1, 2006" . }}</div>
         {{ end }}
