@@ -17,8 +17,6 @@ This is my personal favorite theme on all of Obsidian, not just on mobile. It is
 
 It also works wonderfully with the Style Settings plugin and can utilize a true black color pallete for those with an OLED display to save some battery life. 
 
-
-
 ## Minimal
 One of, if not the most popular theme on Obsidian and for good reason. This theme is highly customizable and offers one of the most clean and elegant experiences Obsidian themes can offer. Based off its name, minimalism is the core concept of this themes design. 
 
