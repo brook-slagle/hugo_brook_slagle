@@ -166,7 +166,7 @@ a:hover {
 
 /*|| Content */
 
-.content{
+/* .content{
     display: flex;
     box-sizing: border-box;
     max-width: 900px;
@@ -175,11 +175,22 @@ a:hover {
     padding: 20px;
     border-radius: 15px;
     line-height: 1.6;
-}
+} */
 
 /* ... */
 
 /* || Single */
+    .single-content {
+        font-weight: 200;
+        margin: auto;
+        max-width: 900px;
+        width: 100%;
+        padding: 1.5rem 2rem;
+        background-color: var(--dark-gray-80);
+        border-radius: 1rem;   
+        line-height: 1.6;
+    }
+
     .title {
         margin: 0px 0px;
         color: var(--violet-20);
@@ -192,15 +203,21 @@ a:hover {
         border-bottom: 1px solid var(--violet-30);
     }
 
-    .single-content {
-        font-weight: 200;
-        margin: auto 20px;
-    }
-
     .single-status {
         margin: 5px 0;
         font-size: small;
         color: var(--violet-10); 
+    }
+
+    .single-post-markup{
+        padding: .2rem 1rem;
+    }
+
+    .single-content figure img{
+        max-height: 500px;
+    }
+
+    .single-content figure figcaption {
     }
 
 /* ... */
@@ -215,7 +232,16 @@ a:hover {
     .posts-date#list {
         border-bottom: 1px solid var(--violet-05);
         margin-bottom: 15px;
+    }
 
+    .list-content {
+        display: flex;
+        max-width: 900px;
+        margin: auto;
+        background-color: var(--dark-gray-80);
+        padding: .5rem 2rem;
+        border-radius: 15px;
+        line-height: 1.6;
     }
 /* ... */
 

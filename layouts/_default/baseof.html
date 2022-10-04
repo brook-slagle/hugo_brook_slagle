@@ -9,12 +9,10 @@
     {{ partial "header" . }}
 
     <div style="margin-top: 125px;"></div>
-    <div class="content">
-        {{ block "main" .}}
-        {{ end }}
-    </div>
+    {{ block "main" .}}
+        {{/*  main  */}}
+    {{ end }}
         
-
     {{ partial "footer" . }}
 
 </body>
