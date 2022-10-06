@@ -1,6 +1,6 @@
 ---
 title: "Brook Slagle Resume"
-draft: true
+draft: false
 ---
 brook.slagle@trojans.dsu.edu --- 
 currently in South Dakota --- 

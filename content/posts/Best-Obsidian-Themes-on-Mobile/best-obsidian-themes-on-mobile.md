@@ -1,9 +1,9 @@
 ---
 title: Best Obsidian Themes on Mobile
-date: 2022-10-01T15:11:23-05:00
+date: 2022-10-04T15:11:23-05:00
 author: "Brook"
 tags: obsidian, note_taking
-draft: true
+draft: false
 ---
 
 Like most users of Obsidian, we go down this rabbit hole of trying out every decent looking theme. And that is exactly what I did for mobile compatible themes. And I did this so you don't have to, because it's a fun and terrible process at the same time. 
