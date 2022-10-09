@@ -69,17 +69,17 @@ The [Things](https://github.com/colineckert/obsidian-things) theme for Obsidian 
 
 
 ## Obsidian You 
-[Obsidian You](https://github.com/selfire1/obsidian-you-theme) is a special theme because it is [as far as I know] the only theme that is designed, from the ground up, for mobile usage. With that said, it does a pretty good job at that. Being based off of Google's Material Design system, the menus are smooth and you can tell its optimized. Personally, I am not the biggest fan of Google Material design, but it is **MILES** better than the default mobile theme. 
+[Obsidian You](https://github.com/selfire1/obsidian-you-theme) is a special theme because it is (as far as I know) the only theme that is designed, from the ground up, for mobile usage. With that said, it does a pretty good job at that. Being based off of Google's Material Design system, the menus are smooth and you can tell its optimized. Personally, I am not the biggest fan of Google Material design, but it is **MILES** better than the default mobile theme. 
 
 There is very little utilization of the Style Settings plugin for this theme. It allows you to change your font and a some other things that aren't that impactful.  
 
 {{< gallery class="content-gallery" >}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145507_Obsidian.jpg">}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145649_Obsidian.jpg">}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145612_Obsidian.jpg">}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145516_Obsidian.jpg">}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145520_Obsidian.jpg">}}
-    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Things_20221001-145549_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150225_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150235_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150241_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150303_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150252_Obsidian.jpg">}}
+    {{<img src="/posts/Best-Obsidian-Themes-on-Mobile/img/Obsidian-You_20221001-150255_Obsidian.jpg">}}
 {{< /gallery >}}
 
 ## In conclusion...
