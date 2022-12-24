@@ -5,7 +5,7 @@ author: "Brook"
 draft: false
 ---
 
-DSU students, be aware. Madison does not have a *whole lot* to offer. You might enjoy the *tiny* party scene, or maybe you're a bar hopper, but you'll always inevitably end up the only food place that is open past midnight. And that would be the good ole' Classic Corner where you will indulge in Hot Stuff Pizza. 
+DSU students, be aware. Madison does not have a *whole lot* to offer. You might enjoy the *tiny* party scene, or maybe you're a bar hopper, but you'll always inevitably end up the only food place that is open past midnight. (And that would be the good ole' Classic Corner where you will indulge in Hot Stuff Pizza.) 
 
 Now the rest of the time you enjoying your time in Madison, you will likely be thinking *"Huh, I am tired of TC Marketplace food, where do I go?"* Use this blog post as a reference to your culinary adventure through Madtowns offerings. 
 
@@ -40,8 +40,8 @@ I will say, none of the options above are bad. I think that they each hold a pur
 #### Now here are all of the food places worth their snuff: 
 *Chains*
 - McDonalds (cheapest food in town while using the app, have to leave it in here)
-- Dairy Queen (ice cream c'mon)
-- Hot Stuff Pizza (can't beat the 2pm chicken and pizza)
+- Dairy Queen (ice cream, c'mon)
+- Hot Stuff Pizza (can't beat the 2am chicken and pizza)
 - Caseys (best "normal" pizza)
 
 *Local*
