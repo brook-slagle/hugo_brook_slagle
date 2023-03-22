@@ -8,6 +8,18 @@ currently in South Dakota ---
 
 Fourth year student studying Cyber Operations at Dakota State University. Currently working as an IT Support Technician, but open to opportunities in Web Development, Blockchain tech, and Cyber Security.
 
+
+## Projects
+- Writer for Playlist Club.Web application that returns a copy-able and edit-able write-out of a selected Spotify Playlist. Utilizing TypeScript, querying the Spotify API via OAuth authorization. https://writer-for-playlist-club.netlify.app
+- brook-slagle website - This is the website you are currently reading off of. It is built with Hugo with an entirely custom frontend. https://brookslagle.com 
+- python scripts - Various python scripts from quick building a QR code, mapping to google, health/body tracker, and more. https://github.com/brook-slagle/mapit
+- build-a-board – An Assembly application for curating a parts list and documentation on how to build longboard.  
+
+Scrimba - Learn React: All of these projects were built with React.js
+- Digital Business Card: https://brooks-digital-business-card.netlify.app
+- Adventure Log: https://brook-n-claira-adventure-log.netlify.app
+
+
 ### Education
 Dakota State University - Graduation Date: May 2023
 The Beacom College of Computer and Cyber Sciences, Madison, SD
@@ -35,12 +47,6 @@ The Beacom College of Computer and Cyber Sciences, Madison, SD
 	- Served customers by completing secure and accurate transactions such as deposits, as well as maintaining a balanced tender/drawer through many transactions.
 	- Identified fraudulent activity as well as other possible avenues of loss for Great Western Bank.
 	- Provide a phenomenal banking experience for the customer by being friendly and helpful.
-
-### Projects
-- brook-slagle website - This is the website you are currently reading off of. It is built with Hugo with an entirely custom frontend. 
-- python scripts - Various python scripts from quick building a QR code, mapping to google, health/body tracker, and more
-- my-wave-portal – A Ethereum/Solidity based smart contract backend with React.js front end. It’s a web application that can handle simple blockchain transactions.
-- build-a-board – An Assembly application for building a longboard.  
 
 ### Campus Involvements / Activities
 - DSU - Dakota Skate Club, Founder and President: 2021 - Present
