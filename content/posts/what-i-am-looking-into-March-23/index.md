@@ -10,7 +10,7 @@ draft: false
 ### What I am looking into right now going into spring: 
 - Minimization
 - The Spotify API for creating playlists...
-- Mens gymnastics strength skills; starting with the humble False Grip. I will be following this: 
+- Mens gymnastics strength skills; starting with the humble False Grip. I will be following this [article](https://www.marks.fitness/blog/false-grip-muscle-up).
 
 ### What music am I jamming to:
 - The End by 2 Man Embassy, Perrin Xthona

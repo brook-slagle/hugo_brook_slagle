@@ -10,10 +10,10 @@ Fourth year student studying Cyber Operations at Dakota State University. Curren
 
 
 ## Projects
-- Writer for Playlist Club.Web application that returns a copy-able and edit-able write-out of a selected Spotify Playlist. Utilizing TypeScript, querying the Spotify API via OAuth authorization. https://writer-for-playlist-club.netlify.app
+- Writer for Playlist Club. Web application that returns a copy-able and edit-able write-out of a selected Spotify Playlist. Utilizing TypeScript, querying the Spotify API via OAuth authorization. https://writer-for-playlist-club.netlify.app
 - brook-slagle website - This is the website you are currently reading off of. It is built with Hugo with an entirely custom frontend. https://brookslagle.com 
 - python scripts - Various python scripts from quick building a QR code, mapping to google, health/body tracker, and more. https://github.com/brook-slagle/mapit
-- build-a-board – An Assembly application for curating a parts list and documentation on how to build longboard.  
+- build-a-board – An Assembly application for curating a parts list and documentation on how to build a longboard.  
 
 Scrimba - Learn React: All of these projects were built with React.js
 - Digital Business Card: https://brooks-digital-business-card.netlify.app
@@ -50,6 +50,6 @@ The Beacom College of Computer and Cyber Sciences, Madison, SD
 
 ### Campus Involvements / Activities
 - DSU - Dakota Skate Club, Founder and President: 2021 - Present
-- DSU - Cooking and Guardening Club, Member: 2021 - Present
+- DSU - Cooking and Gardening Club, Member: 2021 - Present
 - DSU - Offensive Security Club, Member: 2021 - 2022
 - DSU - Collegiate Entrepreneurial Organization (CEO) Club, Member: 2020 - 2022
